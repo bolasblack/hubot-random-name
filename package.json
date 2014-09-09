@@ -1,0 +1,26 @@
+{
+  "name": "hubot-random-name",
+  "version": "0.0.1",
+  "main": "src/index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "c4605",
+  "license": "ISC",
+  "dependencies": {
+    "chinese-random-name": "0.0.3-rdm",
+    "chinese-random-skill": "0.0.3-rdm"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolasblack/hubot-random-name.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bolasblack/hubot-random-name/issues"
+  },
+  "homepage": "https://github.com/bolasblack/hubot-random-name"
+}
